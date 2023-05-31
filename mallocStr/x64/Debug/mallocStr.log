@@ -1,0 +1,3 @@
+﻿  mallocStr.c
+E:\C#\mallocStr\mallocStr.c(6,2): warning C4013: 'strcpy' 未定義; 假設 extern 傳回整數
+  mallocStr.vcxproj -> E:\C#\mallocStr\x64\Debug\mallocStr.exe

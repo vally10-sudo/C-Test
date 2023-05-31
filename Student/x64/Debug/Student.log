@@ -1,0 +1,8 @@
+﻿  Student.cpp
+E:\C#\Student\Student.cpp(13,10): warning C4566: 由通用字元名稱 '\u5B66' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\Student\Student.cpp(13,10): warning C4566: 由通用字元名稱 '\u4E60' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\Student\Student.cpp(17,8): warning C4566: 由通用字元名稱 '\u8BD5' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\Student\Student.cpp(17,8): warning C4566: 由通用字元名稱 '\u7EE9' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\Student\Student.cpp(22,14): warning C4566: 由通用字元名稱 '\u5F20' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\Student\Student.cpp(24,35): warning C4566: 由通用字元名稱 '\u5C81' 表示的字元，無法在目前的字碼頁中表示 (950)
+  Student.vcxproj -> E:\C#\Student\x64\Debug\Student.exe

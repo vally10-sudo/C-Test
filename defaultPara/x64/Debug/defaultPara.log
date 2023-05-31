@@ -1,0 +1,5 @@
+﻿  reference1.cpp
+E:\C#\defaultPara\reference1.cpp(7,10): warning C4566: 由通用字元名稱 '\u53D8' 表示的字元，無法在目前的字碼頁中表示 (950)
+reference.obj : error LNK2005: main 已在 defaultPara.obj 中定義過了
+reference1.obj : error LNK2005: main 已在 defaultPara.obj 中定義過了
+E:\C#\defaultPara\x64\Debug\defaultPara.exe : fatal error LNK1169: 找到有一或多個已定義的符號

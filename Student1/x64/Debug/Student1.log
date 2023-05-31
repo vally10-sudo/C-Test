@@ -1,0 +1,8 @@
+﻿  Student1.cpp
+E:\C#\Student1\Student1.cpp(16,10): warning C4566: 由通用字元名稱 '\u7C7B' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\Student1\Student1.cpp(16,10): warning C4566: 由通用字元名稱 '\u6570' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\Student1\Student1.cpp(37,10): warning C4566: 由通用字元名稱 '\u7C7B' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\Student1\Student1.cpp(37,10): warning C4566: 由通用字元名稱 '\u6570' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\Student1\Student1.cpp(45,10): warning C4566: 由通用字元名稱 '\u5B66' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\Student1\Student1.cpp(45,10): warning C4566: 由通用字元名稱 '\u53F7' 表示的字元，無法在目前的字碼頁中表示 (950)
+  Student1.vcxproj -> E:\C#\Student1\x64\Debug\Student1.exe

@@ -1,0 +1,7 @@
+E:\C#\dotnetdemo\obj\Debug\net6.0\dotnetdemo.csproj.AssemblyReference.cache
+E:\C#\dotnetdemo\obj\Debug\net6.0\dotnetdemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\dotnetdemo\obj\Debug\net6.0\dotnetdemo.AssemblyInfoInputs.cache
+E:\C#\dotnetdemo\obj\Debug\net6.0\dotnetdemo.AssemblyInfo.cs
+E:\C#\dotnetdemo\obj\Debug\net6.0\dotnetdemo.csproj.CoreCompileInputs.cache
+E:\C#\dotnetdemo\obj\Debug\net6.0\dotnetdemo.MvcApplicationPartsAssemblyInfo.cs
+E:\C#\dotnetdemo\obj\Debug\net6.0\dotnetdemo.MvcApplicationPartsAssemblyInfo.cache

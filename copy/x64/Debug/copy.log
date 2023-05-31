@@ -1,0 +1,9 @@
+﻿  copy.cpp
+E:\C#\copy\copy.cpp(16,10): warning C4566: 由通用字元名稱 '\u8C03' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\copy\copy.cpp(16,10): warning C4566: 由通用字元名稱 '\u6570' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\copy\copy.cpp(22,10): warning C4566: 由通用字元名稱 '\u8C03' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\copy\copy.cpp(22,10): warning C4566: 由通用字元名稱 '\u8D1D' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\copy\copy.cpp(22,10): warning C4566: 由通用字元名稱 '\u6570' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\copy\copy.cpp(32,10): warning C4566: 由通用字元名稱 '\u8C03' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\copy\copy.cpp(32,10): warning C4566: 由通用字元名稱 '\u6570' 表示的字元，無法在目前的字碼頁中表示 (950)
+  copy.vcxproj -> E:\C#\copy\x64\Debug\copy.exe

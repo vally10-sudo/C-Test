@@ -1,0 +1,6 @@
+﻿  rabbit.cpp
+E:\C#\Rabbit\rabbit.cpp(17,10): warning C4566: 由通用字元名稱 '\u8C03' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\Rabbit\rabbit.cpp(17,10): warning C4566: 由通用字元名稱 '\u6570' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\Rabbit\rabbit.cpp(31,10): warning C4566: 由通用字元名稱 '\u8C03' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\Rabbit\rabbit.cpp(31,10): warning C4566: 由通用字元名稱 '\u6570' 表示的字元，無法在目前的字碼頁中表示 (950)
+  Rabbit.vcxproj -> E:\C#\Rabbit\x64\Debug\Rabbit.exe

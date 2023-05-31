@@ -1,0 +1,10 @@
+﻿  simple.cpp
+E:\C#\simple\simple.cpp(19,10): warning C4566: 由通用字元名稱 '\u8C03' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\simple\simple.cpp(19,10): warning C4566: 由通用字元名稱 '\u6570' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\simple\simple.cpp(22,28): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+E:\C#\simple\simple.cpp(29,10): warning C4566: 由通用字元名稱 '\u8C03' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\simple\simple.cpp(29,10): warning C4566: 由通用字元名稱 '\u8D1D' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\simple\simple.cpp(29,10): warning C4566: 由通用字元名稱 '\u6570' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\simple\simple.cpp(42,10): warning C4566: 由通用字元名稱 '\u8C03' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\simple\simple.cpp(42,10): warning C4566: 由通用字元名稱 '\u6570' 表示的字元，無法在目前的字碼頁中表示 (950)
+  simple.vcxproj -> E:\C#\simple\x64\Debug\simple.exe
