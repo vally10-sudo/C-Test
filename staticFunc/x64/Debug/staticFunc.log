@@ -1,0 +1,4 @@
+﻿  staticFunc.cpp
+E:\C#\C++\staticFunc\staticFunc.cpp(20,10): warning C4566: 由通用字元名稱 '\u6807' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\C++\staticFunc\staticFunc.cpp(20,10): warning C4566: 由通用字元名稱 '\u70B9' 表示的字元，無法在目前的字碼頁中表示 (950)
+  staticFunc.vcxproj -> E:\C#\C++\staticFunc\x64\Debug\staticFunc.exe
