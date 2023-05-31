@@ -1,0 +1,4 @@
+﻿  staticMember1.cpp
+E:\C#\C++\staticMember1\staticMember1.cpp(24,10): warning C4566: 由通用字元名稱 '\u6570' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\C++\staticMember1\staticMember1.cpp(25,10): warning C4566: 由通用字元名稱 '\u6570' 表示的字元，無法在目前的字碼頁中表示 (950)
+  staticMember1.vcxproj -> E:\C#\C++\staticMember1\x64\Debug\staticMember1.exe
