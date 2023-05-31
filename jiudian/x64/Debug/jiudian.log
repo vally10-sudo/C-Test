@@ -1,0 +1,86 @@
+﻿  guest_room.cpp
+E:\C#\jiudian\guest_room.cpp(25,21): error C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\C#\jiudian\guest_room.cpp(27,2): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\C#\jiudian\guest_room.cpp(31,2): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\C#\jiudian\guest_room.cpp(40,10): warning C4566: 由通用字元名稱 '\u95F2' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\jiudian\guest_room.cpp(58,44): error C2065: 'name_': 未宣告的識別項
+E:\C#\jiudian\guest_room.cpp(59,4): error C2059: 語法錯誤: 'sizeof'
+E:\C#\jiudian\guest_room.cpp(59,4): error C2143: 語法錯誤: 遺漏 '(' (在 'sizeof' 之前)
+E:\C#\jiudian\guest_room.cpp(58,6): error C2660: 'std::basic_ostream<char,std::char_traits<char>>::write': 函式不使用 1 引數
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\ostream(536,39): message : 請參閱 'std::basic_ostream<char,std::char_traits<char>>::write' 的宣告
+E:\C#\jiudian\guest_room.cpp(58,6): message : 當嘗試符合引數清單 '()' 時
+E:\C#\jiudian\guest_room.cpp(91,13): error C2039: 'ppek': 並非 'std::basic_ifstream<char,std::char_traits<char>>' 的成員
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\iosfwd(243,35): message : 請參閱 'std::basic_ifstream<char,std::char_traits<char>>' 的宣告
+E:\C#\jiudian\guest_room.cpp(113,8): error C2039: 'm_member': 並非 'GuestRoom' 的成員
+E:\C#\jiudian\guest_room.h(8,7): message : 請參閱 'GuestRoom' 的宣告
+E:\C#\jiudian\guest_room.cpp(115,50): error C2143: 語法錯誤: 遺漏 ')' (在 ';' 之前)
+E:\C#\jiudian\guest_room.cpp(150,1): error C2556: 'int GuestRoom::generate_number(void)': 多載函式和 'std::string GuestRoom::generate_number(void)' 只在傳回類型不同
+E:\C#\jiudian\guest_room.cpp(21,19): message : 請參閱 'GuestRoom::generate_number' 的宣告
+E:\C#\jiudian\guest_room.cpp(149,16): error C2371: 'GuestRoom::generate_number': 重複定義; 基本類型不相同
+E:\C#\jiudian\guest_room.cpp(21,19): message : 請參閱 'GuestRoom::generate_number' 的宣告
+E:\C#\jiudian\guest_room.cpp(149,16): error C2084: 函式 'std::string GuestRoom::generate_number(void)' 的主體已經被宣告了
+E:\C#\jiudian\guest_room.cpp(21,19): message : 請參閱 'generate_number' 之前的定義
+  main.cpp
+E:\C#\jiudian\room_manager.h(11,3): error C2144: 語法錯誤: 'void' 必須在 ';' 之後
+  room_manager.cpp
+E:\C#\jiudian\room_manager.h(11,3): error C2144: 語法錯誤: 'void' 必須在 ';' 之後
+E:\C#\jiudian\room_manager.cpp(24,24): error C2039: 'add_room': 並非 'GuestRoomManager' 的成員
+E:\C#\jiudian\room_manager.h(6,7): message : 請參閱 'GuestRoomManager' 的宣告
+E:\C#\jiudian\room_manager.cpp(27,6): error C3861: 'check_in': 找不到識別項
+E:\C#\jiudian\room_manager.cpp(29,11): warning C4566: 由通用字元名稱 '\u7F16' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\jiudian\room_manager.cpp(29,11): warning C4566: 由通用字元名稱 '\u53F7' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\jiudian\room_manager.cpp(33,2): error C2065: 'm_root_list': 未宣告的識別項
+E:\C#\jiudian\room_manager.cpp(35,24): error C2065: 'm_room_list': 未宣告的識別項
+E:\C#\jiudian\room_manager.cpp(44,11): warning C4566: 由通用字元名稱 '\u7F16' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\jiudian\room_manager.cpp(44,11): warning C4566: 由通用字元名稱 '\u53F7' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\jiudian\room_manager.cpp(60,11): warning C4566: 由通用字元名稱 '\u95F4' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\jiudian\room_manager.cpp(60,11): warning C4566: 由通用字元名稱 '\u7F16' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\jiudian\room_manager.cpp(60,11): warning C4566: 由通用字元名稱 '\u53F7' 表示的字元，無法在目前的字碼頁中表示 (950)
+  room_view.cpp
+E:\C#\jiudian\room_manager.h(11,3): error C2144: 語法錯誤: 'void' 必須在 ';' 之後
+E:\C#\jiudian\room_view.cpp(8,10): warning C4566: 由通用字元名稱 '\u663E' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\jiudian\room_view.cpp(9,10): warning C4566: 由通用字元名稱 '\u8BBE' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\jiudian\room_view.cpp(10,10): warning C4566: 由通用字元名稱 '\u5220' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\jiudian\room_view.cpp(12,10): warning C4566: 由通用字元名稱 '\u7EDF' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\jiudian\room_view.cpp(21,10): warning C4566: 由通用字元名稱 '\u8BF7' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\jiudian\room_view.cpp(21,10): warning C4566: 由通用字元名稱 '\u8F93' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\jiudian\room_view.cpp(21,10): warning C4566: 由通用字元名稱 '\u79F0' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\jiudian\room_view.cpp(22,10): warning C4566: 由通用字元名稱 '\u8BF7' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\jiudian\room_view.cpp(22,10): warning C4566: 由通用字元名稱 '\u8F93' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\jiudian\room_view.cpp(23,10): warning C4566: 由通用字元名稱 '\u8BF7' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\jiudian\room_view.cpp(23,10): warning C4566: 由通用字元名稱 '\u8F93' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\jiudian\room_view.cpp(23,10): warning C4566: 由通用字元名稱 '\u6570' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\jiudian\room_view.cpp(24,10): warning C4566: 由通用字元名稱 '\u8BF7' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\jiudian\room_view.cpp(24,10): warning C4566: 由通用字元名稱 '\u8F93' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\jiudian\room_view.cpp(24,10): warning C4566: 由通用字元名稱 '\u79EF' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\jiudian\room_view.cpp(28,8): error C2039: 'add_room': 並非 'GuestRoomManager' 的成員
+E:\C#\jiudian\room_manager.h(6,7): message : 請參閱 'GuestRoomManager' 的宣告
+E:\C#\jiudian\room_view.cpp(33,10): warning C4566: 由通用字元名稱 '\u8BF7' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\jiudian\room_view.cpp(33,10): warning C4566: 由通用字元名稱 '\u8F93' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\jiudian\room_view.cpp(33,10): warning C4566: 由通用字元名稱 '\u5220' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\jiudian\room_view.cpp(33,10): warning C4566: 由通用字元名稱 '\u7F16' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\jiudian\room_view.cpp(33,10): warning C4566: 由通用字元名稱 '\u53F7' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\jiudian\room_view.cpp(44,10): warning C4566: 由通用字元名稱 '\u8BF7' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\jiudian\room_view.cpp(44,10): warning C4566: 由通用字元名稱 '\u8F93' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\jiudian\room_view.cpp(44,10): warning C4566: 由通用字元名稱 '\u8BBE' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\jiudian\room_view.cpp(44,10): warning C4566: 由通用字元名稱 '\u7F16' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\jiudian\room_view.cpp(44,10): warning C4566: 由通用字元名稱 '\u53F7' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\jiudian\room_view.cpp(51,10): warning C4566: 由通用字元名稱 '\u7F16' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\jiudian\room_view.cpp(51,10): warning C4566: 由通用字元名稱 '\u53F7' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\jiudian\room_view.cpp(51,30): warning C4566: 由通用字元名稱 '\u79F0' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\jiudian\room_view.cpp(51,50): warning C4566: 由通用字元名稱 '\u79EF' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\jiudian\room_view.cpp(51,90): warning C4566: 由通用字元名稱 '\u6570' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\jiudian\room_view.cpp(51,116): warning C4566: 由通用字元名稱 '\u72B6' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\jiudian\room_view.cpp(51,116): warning C4566: 由通用字元名稱 '\u6001' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\jiudian\room_view.cpp(58,11): warning C4566: 由通用字元名稱 '\u8BF7' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\jiudian\room_view.cpp(58,11): warning C4566: 由通用字元名稱 '\u8FDB' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\jiudian\room_view.cpp(62,102): error C2039: 'get_data': 並非 'GuestRoom' 的成員
+E:\C#\jiudian\guest_room.h(8,7): message : 請參閱 'GuestRoom' 的宣告
+E:\C#\jiudian\room_view.cpp(62,197): warning C4566: 由通用字元名稱 '\u4E2A' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\jiudian\room_view.cpp(66,17): error C2601: 'RoomView::run': 區域函式定義不合法
+E:\C#\jiudian\room_view.cpp(49): message : 此行包含沒有相對應符號的 '{'
+E:\C#\jiudian\room_view.cpp(76,12): warning C4566: 由通用字元名稱 '\u8BF7' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\jiudian\room_view.cpp(76,12): warning C4566: 由通用字元名稱 '\u8F93' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\jiudian\room_view.cpp(69,16): error C2065: 'ture': 未宣告的識別項
+E:\C#\jiudian\room_view.cpp(97,4): warning C4065: switch 陳述式包含 'default'，但沒有 'case' 標籤
+  正在產生程式碼...
