@@ -1,0 +1,7 @@
+﻿  friendFunc.cpp
+E:\C#\C++\friendFunc\friendFunc.cpp(9): warning C4305: '正在初始化': 從 'double' 轉換為 'const float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+E:\C#\C++\friendFunc\friendFunc.cpp(17,10): warning C4566: 由通用字元名稱 '\u5706' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\C++\friendFunc\friendFunc.cpp(17,10): warning C4566: 由通用字元名稱 '\u5F84' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\C++\friendFunc\friendFunc.cpp(17,10): warning C4566: 由通用字元名稱 '\u4E3A' 表示的字元，無法在目前的字碼頁中表示 (950)
+E:\C#\C++\friendFunc\friendFunc.cpp(23,10): warning C4566: 由通用字元名稱 '\u79EF' 表示的字元，無法在目前的字碼頁中表示 (950)
+  friendFunc.vcxproj -> E:\C#\C++\friendFunc\x64\Debug\friendFunc.exe
